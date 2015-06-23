@@ -17,5 +17,5 @@ im = ax.scatter(x, y, c=c, s=s, cmap=plt.cm.jet)
 fig.colorbar(im, ax=ax)
 
 # save the figure
-plt.savefig('foo.png')
+plt.savefig('plot_rnd.png')
 plt.show()
