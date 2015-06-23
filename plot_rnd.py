@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Replace '1234' in the bracket with your numeric ID
-np.random.seed(1234)
+np.random.seed(1202830)
 
 n = 100
 x = np.random.random(n)
